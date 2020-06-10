@@ -262,7 +262,7 @@
                         <version>2.4.0</version>
                         <configuration>
                             <effort>Max</effort>
-                            <xmlOutput>true</xmlOutput>
+                            <xmlOutput>false</xmlOutput>
                         </configuration>
                     </plugin>
                 </plugins>
@@ -340,7 +340,7 @@
                                     <version>2.4.0</version>
                                     <configuration>
                                         <effort>Max</effort>
-                                        <xmlOutput>true</xmlOutput>
+                                        <xmlOutput>false</xmlOutput>
                                     </configuration>
                                 </plugin>
                                 <plugin>
